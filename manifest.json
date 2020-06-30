@@ -1,0 +1,38 @@
+{
+  "name": "HIJAB4MUSLIM",
+  "short_name": "HIJABER",
+  "start_url": "https://www.hijab4muslim.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Tutorial Busana Muslimah",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png./s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png/s96/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png/s144/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png/s168/logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png/s192/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-d0H5HRc78-A/XvqP7UEAm9I/AAAAAAAAME8/hB5SPfqIT1k-u_cWgY_hc-wyxWyEIrGWwCK4BGAsYHg/s320/LOGO%2BAR.png/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
